@@ -22,13 +22,13 @@ Feature engineering and segment profiling , ensuring each customer segment recei
 The primary ai of implementing CLV segmentation at Nexa_Sat is to drive strategic revenue growth through targeted upselling and cross-selling initiatives . This CLV appproach will not only maximize the average revenue but also enhance customer satisfaction and loyalty . 
 
 ## Project Scope
-###1. Exploratory Data Analysis
+### 1. Exploratory Data Analysis
       Conduct a thorough examination of customer dataset , including demographic iformation and usage patterns. This will provide crucial insights in customer behaviour and preferences.
-###2. Feature Engineering 
+### 2. Feature Engineering 
       Engineer relevant feature such as CLV and CLV score. This will serve as key input for the CLV segmentation model.
-###3. Segmentation 
+### 3. Segmentation 
       Assign customer to different segment based on CLV score. Further segment users based on demographic data , usage patterns and service plans.
-###4. Segment Profiling and strategy Formulation 
+### 4. Segment Profiling and strategy Formulation 
       Understand the unique traits tha define each segment and decide the kind of attention each segment require. Develop personalized marketing and communication strategies for each           segment.
 
 ## Data Cleaning 
